@@ -176,7 +176,8 @@ out in the console:
 const element = document.getElementById("main");
 element.style.height = "300px";
 element.style.backgroundColor = "#27647B";
-```
+```phase-0-the-dom-modifying-elements-lab
+
 
 You've changed what's on the screen!
 
